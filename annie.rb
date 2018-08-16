@@ -1,0 +1,61 @@
+def music(feeling)
+  if feeling == "happy"
+    puts "I want to listen to pop"
+    elsif feeling == "angry"
+    puts "I want to listen to rap"
+    elsif feeling == "stressed"
+    puts "I want to listen to classical"
+    elsif feeling == "hyper"
+    puts "I want to listen to EDM"
+    elsif feeling == "patriotic"
+    puts "I want to listen to country"
+    elsif feeling "dramatic"
+    puts "I want to listen to musical theatre"
+    elsif feeling == "emo"
+    puts "I want to listen to punk"
+    elsif feeling == "dangerous"
+    puts "I want to listen to heavy metal"
+    elsif feeling == "sad"
+    puts "I want to listen to blues"
+    elsif feeling == "groovy"
+    puts "I want to listen to disco"
+    elsif feeling == "rowdy and redneck"
+    puts "I want to listen to folk/western"
+    elsif feeling == "relaxed"
+    puts "I want to listen to reggae"
+    
+  else
+    puts "I don't want to listen to music"
+  end
+end 
+
+music("rowdy and redneck")def music(feeling)
+  if feeling == "happy"
+    puts "I want to listen to pop"
+    elsif feeling == "angry"
+    puts "I want to listen to rap"
+    elsif feeling == "stressed"
+    puts "I want to listen to classical"
+    elsif feeling == "hyper"
+    puts "I want to listen to EDM"
+    elsif feeling == "patriotic"
+    puts "I want to listen to country"
+    elsif feeling "dramatic"
+    puts "I want to listen to musical theatre"
+    elsif feeling == "emo"
+    puts "I want to listen to punk"
+    elsif feeling == "dangerous"
+    puts "I want to listen to heavy metal"
+    elsif feeling == "sad"
+    puts "I want to listen to blues"
+    elsif feeling == "groovy"
+    puts "I want to listen to disco"
+    elsif feeling == "rowdy and redneck"
+    puts "I want to listen to folk/western"
+    elsif feeling == "relaxed"
+    puts "I want to listen to reggae"
+    
+  else
+    puts "I don't want to listen to music"
+  end
+end 
